@@ -5,4 +5,5 @@ class CreateStudents < ActiveRecord::Migration[5.1]
       table.string :name
     end
   end
+
 end
